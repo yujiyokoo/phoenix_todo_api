@@ -1,5 +1,7 @@
 # TodoApi
 
+[![Build Status](https://travis-ci.org/yujiyokoo/phoenix_todo_api.svg?branch=master)](https://travis-ci.org/yujiyokoo/phoenix_todo_api)
+
 Todo API from https://blog.codeship.com/an-introduction-to-apis-with-phoenix/
 
 To start your Phoenix app:
